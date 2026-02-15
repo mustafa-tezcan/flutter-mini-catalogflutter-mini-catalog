@@ -26,6 +26,3 @@ This project demonstrates API integration, category filtering, reusable componen
 - FutureBuilder
 
 ---
-
-## 📂 Project Structure
-
