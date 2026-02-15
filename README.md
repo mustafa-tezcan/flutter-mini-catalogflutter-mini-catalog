@@ -1,17 +1,31 @@
-# mini_katalog
+# Flutter Product Catalog App
 
-A new Flutter project.
+A simple and modular product catalog application built with Flutter.  
+This project demonstrates API integration, category filtering, reusable components, and clean UI structure.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 📦 Product listing from API
+- 🏷 Category filtering
+- 🧩 Reusable ProductCard component
+- 🔄 Future-based state management
+- 📱 Responsive Grid Layout
+- 🧼 Clean and modular architecture
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠 Technologies Used
+
+- Flutter
+- Dart
+- REST API
+- StatefulWidget
+- GridView
+- FutureBuilder
+
+---
+
+## 📂 Project Structure
+
